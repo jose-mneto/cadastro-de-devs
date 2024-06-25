@@ -1,0 +1,43 @@
+.borda1{
+    border: 1px solid;
+    padding: 10px;
+}
+
+.aplicacao-nome{
+    display: flex;
+    align-items: center;
+}
+
+#email{
+    margin-top: 20px; 
+}
+
+.borda2{
+    border: 1px solid;
+    padding: 10px;
+    margin-top: 30px;
+}
+
+.area-de-texto{
+    display: flex;
+    margin-top: 30px;
+    align-items: center;
+}
+
+.formulario{
+    width: 600px;
+    height: 600px;
+    background-color: #fff;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: darkgrey;
+}
+
+h1{
+    text-align: center;
+}
