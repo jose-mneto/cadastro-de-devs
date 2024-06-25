@@ -1,3 +1,8 @@
+body{
+    background: url('./17173626-programadores-codificadores-trabalhando-no-escritorio-analista-programador-escrevendo-codigo-programa-de-codificacao-na-tela-do-computador-para-aprender-e-desenvolver-programas-scripts-de-c.jpg') center center no-repeat;
+    background-size: cover;
+}
+
 .borda1{
     border: 1px solid;
     padding: 10px;
@@ -35,9 +40,10 @@
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: darkgrey;
+    /* background-color: darkgrey; */
 }
 
 h1{
     text-align: center;
 }
+
